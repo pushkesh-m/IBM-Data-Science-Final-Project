@@ -1,22 +1,23 @@
-# IBM Data Science Final Project
+# IBM Data Science Professional Certificate — Capstone Project
 
-This repository contains the final project completed as part of the
-IBM Data Science Professional Certificate.
+Peer-reviewed final project for the IBM Data Science Professional Certificate on Coursera.
+Covers stock data extraction, web scraping, and interactive visualisation.
 
-## Objective
-To apply Data Science techniques to analyze data, extract insights,
-and present findings using Python.
+## Tools & Libraries
+- Python 3 (Jupyter Notebook)
+- `yfinance` — historical stock price data
+- `BeautifulSoup` — web scraping revenue data
+- `plotly` — interactive dashboards
+- `pandas` — data manipulation
 
-## Key Steps
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data visualization
-- Interpretation of results
+## What I Did
+- Extracted historical stock data via the `yfinance` API
+- Scraped quarterly revenue data from web sources using `BeautifulSoup`
+- Cleaned and merged both datasets
+- Built interactive dashboards comparing stock price vs revenue over time
 
-## Tools & Technologies
-- Python
-- Jupyter Notebook
-- Pandas, NumPy, Matplotlib, Seaborn
+## Skills Demonstrated
+API data extraction · Web scraping · Data merging · Interactive visualisation
 
-## Course
-IBM Data Science Professional Certificate
+## Certificate
+[IBM Data Science Professional Certificate — Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
